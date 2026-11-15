@@ -1,0 +1,6 @@
+{
+  "name": "Indian Stock Market AI Assistant",
+  "description": "Evidence-based, risk-controlled research, technical and fundamental analysis, trade scanners, portfolio analytics, and multi-agent AI assistant for NSE and BSE equities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
